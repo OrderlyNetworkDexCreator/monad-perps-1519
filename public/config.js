@@ -22,7 +22,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_CUSTOM_MENUS": "Documentation, https://docs.naddex.io",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
-  "VITE_TELEGRAM_URL": "",
+  "VITE_TELEGRAM_URL": "https://t.me/naddexportal",
   "VITE_DISCORD_URL": "",
   "VITE_TWITTER_URL": "https://x.com/naddex_io",
   "VITE_SEO_SITE_NAME": "Nad DEX",
